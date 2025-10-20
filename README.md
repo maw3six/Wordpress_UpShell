@@ -9,10 +9,10 @@
 ## 📁 Structure:
 
 Result/
-├── wpfilemanager_found.txt      # Sites yang sudah ada WP File Manager
-├── wpfilemanager_installed.txt  # WP File Manager berhasil diinstall
-├── themes_uploaded.txt          # Themes berhasil diupload
-├── plugins_uploaded.txt         # Plugins berhasil diupload
-├── shells_uploaded.txt          # Shell URLs yang berhasil diupload
-└── session_log.txt              # Log session dengan timestamp
+├── wpfilemanager_found.txt
+├── wpfilemanager_installed.txt
+├── themes_uploaded.txt
+├── plugins_uploaded.txt
+├── shells_uploaded.txt
+└── session_log.txt
 ```
